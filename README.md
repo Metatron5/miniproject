@@ -40,4 +40,4 @@ Belegung eines Kurses durch Eingabe von:
 
 1. `pip install -r requirements.txt`
 2. `python setup_db.py`
-3. `streamlit run streamlit_app.py`
+3. `python -m streamlit run streamlit_app.py`
